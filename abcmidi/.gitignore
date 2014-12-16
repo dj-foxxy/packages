@@ -1,4 +1,5 @@
-/*.pkg.tar.xz
+/abcmidi-*.pkg.tar.xz
+/abcmidi-*.src.tar.gz
 /abcMIDI-*.zip
 /pkg/
 /src/

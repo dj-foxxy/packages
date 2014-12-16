@@ -10,7 +10,7 @@ clean() {
 }
 
 clean $repo/abcmidi/abcMIDI-*.zip(N)
-clean $repo/abcmidi/abcmidi-*.pkg.tar.xz
+clean $repo/abcmidi/abcmidi-*.tar.xz(N)
 clean $repo/abcmidi/pkg
 clean $repo/abcmidi/src
 
